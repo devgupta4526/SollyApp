@@ -1,0 +1,63 @@
+com.underground.solly.app-startup-runtime-1.1.1-0 C:\Users\HP\.gradle\caches\transforms-3\07d5bd8adbb14d46b37f6d6ac6fb5c94\transformed\startup-runtime-1.1.1\res
+com.underground.solly.app-ui-tooling-preview-release-1 C:\Users\HP\.gradle\caches\transforms-3\170f6becddac57d232241118f6c1d434\transformed\ui-tooling-preview-release\res
+com.underground.solly.app-ui-unit-release-2 C:\Users\HP\.gradle\caches\transforms-3\1e3a55f9f5214b12006b6c8debd3818f\transformed\ui-unit-release\res
+com.underground.solly.app-navigation-common-ktx-2.7.0-3 C:\Users\HP\.gradle\caches\transforms-3\2f2b183d09aa40d7e3262b4d5b31668e\transformed\navigation-common-ktx-2.7.0\res
+com.underground.solly.app-hilt-navigation-compose-1.0.0-4 C:\Users\HP\.gradle\caches\transforms-3\2f3805624306fd4d4c87ec33cb34fb04\transformed\hilt-navigation-compose-1.0.0\res
+com.underground.solly.app-runtime-saveable-release-5 C:\Users\HP\.gradle\caches\transforms-3\3281b5b53dc0edb28eef453365515db9\transformed\runtime-saveable-release\res
+com.underground.solly.app-room-runtime-2.5.2-6 C:\Users\HP\.gradle\caches\transforms-3\3382f7d45d578451cfeb2c2ba576af98\transformed\room-runtime-2.5.2\res
+com.underground.solly.app-ui-util-release-7 C:\Users\HP\.gradle\caches\transforms-3\432c2dfa634bb25b1cdf4f7fb7f9c2c3\transformed\ui-util-release\res
+com.underground.solly.app-lifecycle-livedata-core-ktx-2.7.0-alpha02-8 C:\Users\HP\.gradle\caches\transforms-3\494a146c9f9a77a82e8d6778c5d01371\transformed\lifecycle-livedata-core-ktx-2.7.0-alpha02\res
+com.underground.solly.app-lifecycle-process-2.7.0-alpha02-9 C:\Users\HP\.gradle\caches\transforms-3\4e529e39116f3fa3eab06a43a2bf3fdb\transformed\lifecycle-process-2.7.0-alpha02\res
+com.underground.solly.app-activity-1.8.0-10 C:\Users\HP\.gradle\caches\transforms-3\4f2238f5f2385e0bd259ebeec2ceb7ae\transformed\activity-1.8.0\res
+com.underground.solly.app-core-runtime-2.2.0-11 C:\Users\HP\.gradle\caches\transforms-3\4f454688548824789b95aa205a22f3b3\transformed\core-runtime-2.2.0\res
+com.underground.solly.app-navigation-runtime-2.7.0-12 C:\Users\HP\.gradle\caches\transforms-3\5061f238e3fec2fb5a6f5dc95a216e7a\transformed\navigation-runtime-2.7.0\res
+com.underground.solly.app-ui-test-manifest-1.5.3-13 C:\Users\HP\.gradle\caches\transforms-3\53957fb4a13d809d73471c77f175d9cb\transformed\ui-test-manifest-1.5.3\res
+com.underground.solly.app-room-ktx-2.5.2-14 C:\Users\HP\.gradle\caches\transforms-3\57d0656279cbd4177187406d2ec9bbf5\transformed\room-ktx-2.5.2\res
+com.underground.solly.app-animation-release-15 C:\Users\HP\.gradle\caches\transforms-3\582c4cf54a22435e0108c100815816d0\transformed\animation-release\res
+com.underground.solly.app-ui-text-release-16 C:\Users\HP\.gradle\caches\transforms-3\5c287b36dfc9d3a8dbe4d11faacd6578\transformed\ui-text-release\res
+com.underground.solly.app-animation-core-release-17 C:\Users\HP\.gradle\caches\transforms-3\5f7292f21dc8bea2d373cb5da0e4d03e\transformed\animation-core-release\res
+com.underground.solly.app-core-1.12.0-18 C:\Users\HP\.gradle\caches\transforms-3\5fdd76c8c12a063169ddaab1b6a62b9c\transformed\core-1.12.0\res
+com.underground.solly.app-fragment-1.5.1-19 C:\Users\HP\.gradle\caches\transforms-3\60d5abe6d659cfcb9ca221332fa6af06\transformed\fragment-1.5.1\res
+com.underground.solly.app-navigation-runtime-ktx-2.7.0-20 C:\Users\HP\.gradle\caches\transforms-3\640abeca9963cd2f526a8195c07d12c3\transformed\navigation-runtime-ktx-2.7.0\res
+com.underground.solly.app-foundation-release-21 C:\Users\HP\.gradle\caches\transforms-3\6937d3947236967032d9a500599f7881\transformed\foundation-release\res
+com.underground.solly.app-sqlite-framework-2.3.1-22 C:\Users\HP\.gradle\caches\transforms-3\6ad93a1c38d8fedfca8b51d53c17e68d\transformed\sqlite-framework-2.3.1\res
+com.underground.solly.app-savedstate-ktx-1.2.1-23 C:\Users\HP\.gradle\caches\transforms-3\6bc308191b8035de3e26fede66df4723\transformed\savedstate-ktx-1.2.1\res
+com.underground.solly.app-emoji2-1.4.0-24 C:\Users\HP\.gradle\caches\transforms-3\6da7191bc9848bef4f5ff8267542c823\transformed\emoji2-1.4.0\res
+com.underground.solly.app-lifecycle-runtime-ktx-2.7.0-alpha02-25 C:\Users\HP\.gradle\caches\transforms-3\734a0da7692a9278842ea231d09ea92c\transformed\lifecycle-runtime-ktx-2.7.0-alpha02\res
+com.underground.solly.app-lifecycle-viewmodel-ktx-2.7.0-alpha02-26 C:\Users\HP\.gradle\caches\transforms-3\76216c77dc2e08719f9b9b84f7312903\transformed\lifecycle-viewmodel-ktx-2.7.0-alpha02\res
+com.underground.solly.app-lifecycle-viewmodel-savedstate-2.7.0-alpha02-27 C:\Users\HP\.gradle\caches\transforms-3\7826361eaea62d10e8bf84d87ca2b1c0\transformed\lifecycle-viewmodel-savedstate-2.7.0-alpha02\res
+com.underground.solly.app-ui-tooling-data-release-28 C:\Users\HP\.gradle\caches\transforms-3\7a0fd326752714e36773c4af027233fd\transformed\ui-tooling-data-release\res
+com.underground.solly.app-lifecycle-runtime-2.7.0-alpha02-29 C:\Users\HP\.gradle\caches\transforms-3\7c016ce8a4ab04aa10d1d380f2b077f7\transformed\lifecycle-runtime-2.7.0-alpha02\res
+com.underground.solly.app-ui-graphics-release-30 C:\Users\HP\.gradle\caches\transforms-3\7f550edcb3cb4e515f4b15130614450e\transformed\ui-graphics-release\res
+com.underground.solly.app-ui-text-google-fonts-1.5.3-31 C:\Users\HP\.gradle\caches\transforms-3\8582395519d20b5312cdff5f0b9cc12b\transformed\ui-text-google-fonts-1.5.3\res
+com.underground.solly.app-annotation-experimental-1.3.0-32 C:\Users\HP\.gradle\caches\transforms-3\8f26b345d64e113cfd24bfa0f61efcc7\transformed\annotation-experimental-1.3.0\res
+com.underground.solly.app-lifecycle-viewmodel-2.7.0-alpha02-33 C:\Users\HP\.gradle\caches\transforms-3\904cecb8a6f93ea823f9b6536d9e2c8e\transformed\lifecycle-viewmodel-2.7.0-alpha02\res
+com.underground.solly.app-material-icons-core-release-34 C:\Users\HP\.gradle\caches\transforms-3\93259bdf4115fd23d7500def3a784938\transformed\material-icons-core-release\res
+com.underground.solly.app-lifecycle-livedata-core-2.7.0-alpha02-35 C:\Users\HP\.gradle\caches\transforms-3\95bf6f07d9d5418000710e2f41cfbfbd\transformed\lifecycle-livedata-core-2.7.0-alpha02\res
+com.underground.solly.app-material-release-36 C:\Users\HP\.gradle\caches\transforms-3\9a4d2d5fccff0dc6cc60570bbbd5d58d\transformed\material-release\res
+com.underground.solly.app-profileinstaller-1.3.0-37 C:\Users\HP\.gradle\caches\transforms-3\9a9a2ab2b1d6060d0e27a4f9d37a6f1e\transformed\profileinstaller-1.3.0\res
+com.underground.solly.app-ui-tooling-release-38 C:\Users\HP\.gradle\caches\transforms-3\a157369bbffdd565bbe68c95ec0dc246\transformed\ui-tooling-release\res
+com.underground.solly.app-foundation-layout-release-39 C:\Users\HP\.gradle\caches\transforms-3\a35dd1bd60cdb1b95c60286c7cf022d0\transformed\foundation-layout-release\res
+com.underground.solly.app-lifecycle-runtime-compose-2.7.0-alpha02-40 C:\Users\HP\.gradle\caches\transforms-3\a54a0049a4043af06532366cd3ef9d78\transformed\lifecycle-runtime-compose-2.7.0-alpha02\res
+com.underground.solly.app-material3-1.1.2-41 C:\Users\HP\.gradle\caches\transforms-3\aad4260c1f6a322497fbe5eee7aa6acc\transformed\material3-1.1.2\res
+com.underground.solly.app-runtime-release-42 C:\Users\HP\.gradle\caches\transforms-3\b7dfd8eab02a3cf86f3e3c4feeef8c2c\transformed\runtime-release\res
+com.underground.solly.app-navigation-compose-2.7.0-43 C:\Users\HP\.gradle\caches\transforms-3\c12d7b98aa84383bd85c102dd3e59d3d\transformed\navigation-compose-2.7.0\res
+com.underground.solly.app-navigation-common-2.7.0-44 C:\Users\HP\.gradle\caches\transforms-3\c218e44adc03cafcff2e8523866c3e5d\transformed\navigation-common-2.7.0\res
+com.underground.solly.app-hilt-navigation-1.0.0-45 C:\Users\HP\.gradle\caches\transforms-3\d0e482fdfc90df2991efc516b3f32133\transformed\hilt-navigation-1.0.0\res
+com.underground.solly.app-activity-ktx-1.8.0-46 C:\Users\HP\.gradle\caches\transforms-3\d30d6bdaf5ba1b2e8b750b659d013f4f\transformed\activity-ktx-1.8.0\res
+com.underground.solly.app-lifecycle-viewmodel-compose-2.7.0-alpha02-47 C:\Users\HP\.gradle\caches\transforms-3\d4195b724a0500268f0aa03164dd61ec\transformed\lifecycle-viewmodel-compose-2.7.0-alpha02\res
+com.underground.solly.app-activity-compose-1.8.0-48 C:\Users\HP\.gradle\caches\transforms-3\da4b3f15d556fd122a0e4eeb68b0f41c\transformed\activity-compose-1.8.0\res
+com.underground.solly.app-savedstate-1.2.1-49 C:\Users\HP\.gradle\caches\transforms-3\dcb5702047fac8c4d8def6e3dc87f265\transformed\savedstate-1.2.1\res
+com.underground.solly.app-ui-release-50 C:\Users\HP\.gradle\caches\transforms-3\e84e5803cf779d60fd67f18c8644e75b\transformed\ui-release\res
+com.underground.solly.app-sqlite-2.3.1-51 C:\Users\HP\.gradle\caches\transforms-3\ef23aea9bfd41dad1cc342b248592f94\transformed\sqlite-2.3.1\res
+com.underground.solly.app-core-ktx-1.12.0-52 C:\Users\HP\.gradle\caches\transforms-3\f262b7ead8f3bfe9a9b849e8ca109edb\transformed\core-ktx-1.12.0\res
+com.underground.solly.app-material-ripple-release-53 C:\Users\HP\.gradle\caches\transforms-3\f6a384d51ffac2555c1d76783949462d\transformed\material-ripple-release\res
+com.underground.solly.app-lifecycle-livedata-2.7.0-alpha02-54 C:\Users\HP\.gradle\caches\transforms-3\f8ec8b90a75b2ccc120be4c57305b644\transformed\lifecycle-livedata-2.7.0-alpha02\res
+com.underground.solly.app-ui-geometry-release-55 C:\Users\HP\.gradle\caches\transforms-3\fb4d5d452beaf2aba7a8e60c92cc360f\transformed\ui-geometry-release\res
+com.underground.solly.app-customview-poolingcontainer-1.0.0-56 C:\Users\HP\.gradle\caches\transforms-3\fc028bae5365058cf0d5ef41f2d3c209\transformed\customview-poolingcontainer-1.0.0\res
+com.underground.solly.app-resValues-57 D:\Android Projects\Solly\app\build\generated\res\resValues\debug
+com.underground.solly.app-packageDebugResources-58 D:\Android Projects\Solly\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.underground.solly.app-packageDebugResources-59 D:\Android Projects\Solly\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.underground.solly.app-merged_res-60 D:\Android Projects\Solly\app\build\intermediates\merged_res\debug
+com.underground.solly.app-debug-61 D:\Android Projects\Solly\app\src\debug\res
+com.underground.solly.app-main-62 D:\Android Projects\Solly\app\src\main\res
